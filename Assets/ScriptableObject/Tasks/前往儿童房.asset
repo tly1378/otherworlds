@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2614635c35b5943a530a058d86bfb8, type: 3}
+  m_Name: "\u524D\u5F80\u513F\u7AE5\u623F"
+  m_EditorClassIdentifier: 
+  taskType: 2
+  taskObject: {fileID: 0}
+  needItem: {fileID: 0}
+  needNum: 0
+  nowNum: 0
+  introduce: "\u5BFB\u627E\u513F\u7AE5\u623F"
+  nextTask: {fileID: 0}
+  pointNum: 1
+  TaskStory: {fileID: 11400000, guid: 8cc78b74b3d4d054c8784d7e8d01f750, type: 2}

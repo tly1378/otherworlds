@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3322cc3a60adaa848b74531c1c479352, type: 3}
+  m_Name: "\u82CF\u9192"
+  m_EditorClassIdentifier: 
+  LC: {fileID: 21300000, guid: cbcce57e61e6c52489042011a0d51d44, type: 3}
+  RC: {fileID: 21300000, guid: cbcce57e61e6c52489042011a0d51d44, type: 3}
+  Sentence:
+  - "\u6211\uFF1A\u6211\u6765\u5230\u8FD9\u4F3C\u4E4E\u8981\u5BFB\u627E\u4E00\u4E2A\u4EBA\uFF0C\u4F46\u6211\u5FD8\u4E86\u4ED6\u662F\u8C01\u3002"
+  - ......
+  - "\u6211\uFF1A\u8FD9\u76CF\u706F\uFF0C\u8FD9\u91CC\u662F\u7236\u6BCD\u7684\u5367\u5BA4\u4E48\u3002"
+  - ......
+  - "\u6211\uFF1A\u597D\u51B7\u554A\uFF0C\u5EFA\u4E00\u4E2A\u8425\u706B\u53D6\u6696\u5427\u3002"
+  - "\u6211\uFF1A\u4E5F\u8BB8\u53EF\u4EE5\u6536\u96C6\u6F02\u6D6E\u7740\u7684\u4E00\u4E9B\u6750\u6599\u6765\u8FDB\u884C\u5EFA\u9020\u2026\u2026"
+  - "\u2026\u2026"
+  - "\u6211\uFF1A\u8FD9\u4E2A\u82B1\u76C6\u5E94\u8BE5\u53EF\u4EE5\u79CD\u4E9B\u4EC0\u4E48\u3002"
+  Teller: 000000000000
